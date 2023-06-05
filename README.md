@@ -4,5 +4,5 @@ Validation
 Errors
 Refs and navigation to fields
 Pre/Post process on input
-Arrays/Field arrays and tuples
+Arrays/Field arrays, tuples and records
 Diffing and history
